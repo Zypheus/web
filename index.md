@@ -8,7 +8,6 @@
 		<h1>ZenxiaL.</h1>
 	</div>
 	<div class = "about">
-		<h2>進站請先 Ctrl+F5</h2>
                 <h1>About me</h1>
                 <h4>
                     <ul>
